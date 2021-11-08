@@ -18,6 +18,10 @@ https://pumpametti.com/metti-inu-nft
 
 You can use MettiFrens_NoBalanceCheck.sol if you prefer smart contract for your art without $Metti balance check. 
 
+So far MettiFrens can be used by artists whose final artwork file is in .png format, that means artists whose medium is painting, photography or conceptual art can feel free to use this repo without any coding background. 
+
+If you are a more experienced dev fren who can tweak the index.js and config.js inside MettiFrens Art Generation into accepting other file formats such as .mp3, .mov, .mp4 etc, please explore and create another repo and I will share and thank you in advance.
+
 Fantom is EVM compatible and very fast & smooth and will save emerging artist a lot of gas if you choose to mint in this ecosystem. Granted it's at early days with not as many collectors as the ethereum blockchain, but I believe good artworks will attract more and more collectors.
 
 More artists will create good art on blockchain once the tech barrier & moat is gradually cleared by the cavaliers and the crazy ones who open-source as much as possible in the WEB 3 new universe.
