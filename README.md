@@ -32,11 +32,13 @@ I will be one of the small crazy ones.
 
 Helping others to win is anon chad move!
 
-Special thanks to Jalil from 1001 Digital for creating awesome ERC-721 extensions, Daniel from Hashlips for the generative art coding & smart contract help through his Youtube videos.
+Special thanks to Jalil from 1001 Digital for creating awesome ERC-721 extensions, Daniel from Hashlips for the generative art coding & smart contract help through his Youtube videos and TokenFox for the help with FRC-721 balance check and many other things!
 
 https://github.com/1001-digital/erc721-extensions
 
 https://github.com/HashLips
+
+https://github.com/tokenfox
 
 For a step by step tutorial of MettiFrens, you can find on Pumpametti Youtube channel:
 https://www.youtube.com/watch?v=0a_IZHInNTk.
