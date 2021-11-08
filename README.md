@@ -30,7 +30,7 @@ I will be one of the small crazy ones.
 
 Helping others to win is anon chad move!
 
-Special thanks to Jalil from 1001 Digital for creating awesome ERC-721 extensions, Daniel from Hashlips for the generative art coding & smart cotract help through his Youtube videos.
+Special thanks to Jalil from 1001 Digital for creating awesome ERC-721 extensions, Daniel from Hashlips for the generative art coding & smart contract help through his Youtube videos.
 
 https://github.com/1001-digital/erc721-extensions
 
