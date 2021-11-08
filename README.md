@@ -1,5 +1,7 @@
 # MettiFrens
 
+https://pumpametti.com/mettifrens
+
 MettiFrens is a tutorial designed for artists with 0 coding background to use generative code + Solidity to create NFT collections on 
 Fantom Blockchain, list on Artion & Paintswap with minimal fees. 
 
